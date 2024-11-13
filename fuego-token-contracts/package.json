@@ -1,0 +1,21 @@
+{
+  "name": "deflationary-token-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.14",
+    "hardhat-tracer": "^3.1.0",
+    "solhint": "^5.0.3",
+    "solmate": "^6.2.0"
+  }
+}
